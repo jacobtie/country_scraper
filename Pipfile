@@ -9,6 +9,7 @@ verify_ssl = true
 bs4 = "*"
 requests = "*"
 pandas = "*"
+html5lib = "*"
 
 [requires]
 python_version = "3.7"
