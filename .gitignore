@@ -4,3 +4,4 @@ output/logs/*.txt
 *.xls
 *.xlsx
 *.csv
+*.html
